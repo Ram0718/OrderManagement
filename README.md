@@ -128,7 +128,7 @@ com.example.demo
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://ram0718.github.io/OrderManagement/>
 ```
 
 ### 2️⃣ Open in IDE
